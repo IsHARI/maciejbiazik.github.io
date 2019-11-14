@@ -10,19 +10,19 @@
 	/* Color definitions. 
 	Alt is same as base, but +2 saturation, -15 brightness (more or less) */
 
-	--col-nav: #3c2c62;
-	--col-alt: #261c3e;
-	--col-bg: #312450;  /* halfway between --col-nav and --col-alt */
-	--col-img-before: rgba(49, 36, 80, 0.9); /* --col-bg with 0.9 alpha */
+	--col-nav: #191F3A;
+	--col-alt: #13172B;
+	--col-bg: #171D35;  /* halfway between --col-nav and --col-alt */
+	--col-img-before: rgba(23, 29, 53, 0.9); /* --col-bg with 0.9 alpha */
 
-	--col-1: #5e42a6;
-	--col-1-alt: #493382;
+	--col-1: #36457F;
+	--col-1-alt: #28335D;
 
-	--col-2: #5052b5;
-	--col-2-alt: #3e4094;
+	--col-2: #456B8E;
+	--col-2-alt: #334E68;
 
-	--col-3: #b74e91;
-	--col-3-alt: #953d75;
+	--col-3: #884591;
+	--col-3-alt: #63336A;
 }
 
 html, body, div, span, applet, object,
