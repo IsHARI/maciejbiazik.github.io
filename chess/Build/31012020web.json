@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D Chess 3D",
+"productVersion": "0.1",
+"dataUrl": "31012020web.data.unityweb",
+"asmCodeUrl": "31012020web.asm.code.unityweb",
+"asmMemoryUrl": "31012020web.asm.memory.unityweb",
+"asmFrameworkUrl": "31012020web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.19f1"
+}
